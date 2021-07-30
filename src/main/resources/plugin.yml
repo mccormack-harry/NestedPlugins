@@ -1,0 +1,5 @@
+name: NestedPlugins
+author: HazeDev
+version: ${project.version}
+main: ${project.groupId}.Main
+api-version: 1.16
